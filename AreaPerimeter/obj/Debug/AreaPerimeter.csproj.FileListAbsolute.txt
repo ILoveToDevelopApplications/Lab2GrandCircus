@@ -1,0 +1,7 @@
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.csprojAssemblyReference.cache
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.exe.config
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.exe
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\bin\Debug\AreaPerimeter.pdb
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.exe
+C:\Users\An Image of God\source\repos\CalculatingAreaPerimeter\AreaPerimeter\obj\Debug\AreaPerimeter.pdb
